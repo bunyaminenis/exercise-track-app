@@ -3,12 +3,14 @@
 This is a simple Python project that lets you track your workouts by sending your exercise data to the Nutritionix API and automatically logging the results to a Google Sheet. It’s a great way to practice working with APIs, environment variables, and POST requests.
 
 🚀 Features
+
 ✅ Accepts natural language input (e.g., “I ran 3 miles and did 20 push-ups”)
 ✅ Sends your input to the Nutritionix API to get calories burned and duration
 ✅ Logs each exercise with date and time to a Google Sheet via Sheety API
 ✅ Uses environment variables to store sensitive credentials (.env file)
 
 📁 Project Structure
+
 📦 exercise-tracker/
 ├── main.py         # Main script for collecting, processing, and posting workout data
 ├── .env            # Stores your API keys and tokens (not committed to version control)

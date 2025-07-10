@@ -32,7 +32,7 @@ Stored in a .env file and loaded using python-dotenv.
 
 ▶️ How to Use
 1. Clone the repo
-  git clone https://github.com/yourusername/exercise-tracker.git
+  git clone https://github.com/bunyaminenis/exercise-track-app.git
   cd exercise-tracker
 2. Install dependencies
    pip install requests python-dotenv
@@ -47,8 +47,9 @@ Stored in a .env file and loaded using python-dotenv.
   Each exercise will be logged with date, time, name, duration, and calories burned.
 
 📌 Requirements
-Python 3.x
 
-requests
+  Python 3.x
 
-python-dotenv
+  requests
+
+  python-dotenv

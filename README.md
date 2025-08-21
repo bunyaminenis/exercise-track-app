@@ -12,7 +12,9 @@ This is a simple Python project that lets you track your workouts by sending you
 📁 Project Structure
 
 📦 exercise-tracker/
+
 ├── main.py         # Main script for collecting, processing, and posting workout data
+
 ├── .env            # Stores your API keys and tokens (not committed to version control)
 
 🛠️ How It Works
